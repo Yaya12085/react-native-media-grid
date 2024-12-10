@@ -3,6 +3,7 @@
 A highly customizable, performant, and accessible media grid component for React Native applications. Display images in an elegant grid layout with support for various configurations and full-screen preview.
 
 ![License](https://img.shields.io/npm/l/react-native-media-grid)
+
 ![npm](https://img.shields.io/npm/v/react-native-media-grid)
 
 ## Features
@@ -22,6 +23,10 @@ npm install react-native-media-grid
 # or
 yarn add react-native-media-grid
 ```
+
+## Demo
+
+[![Demo](https://github.com/Yaya12085/react-native-media-grid/blob/main/example/assets/demo.png?raw=true)](https://raw.githubusercontent.com/Yaya12085/react-native-media-grid/main/example/assets/demo.mp4)
 
 ## Usage
 
@@ -61,9 +66,9 @@ const App = () => {
 | `items`           | `MediaItemType[]`         | Required | Array of media items to display                                   |
 | `spacing`         | `number`                  | `2`      | Gap between grid items in pixels                                  |
 | `maxDisplayItems` | `number`                  | `4`      | Maximum number of items to display before showing a count overlay |
-| `containerStyle`  | `ViewStyle`               | -        | Style for the grid container                                      |
-| `itemStyle`       | `ViewStyle`               | -        | Style for individual media items                                  |
-| `onMediaPress`    | `(index: number) => void` | -        | Callback when a media item is pressed                             |
+| `containerStyle`  | `ViewStyle`               | \-       | Style for the grid container                                      |
+| `itemStyle`       | `ViewStyle`               | \-       | Style for individual media items                                  |
+| `onMediaPress`    | `(index: number) => void` | \-       | Callback when a media item is pressed                             |
 
 ### MediaItemType
 
