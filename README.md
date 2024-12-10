@@ -26,7 +26,7 @@ yarn add react-native-media-grid
 
 ## Demo
 
-[![Demo](https://github.com/Yaya12085/react-native-media-grid/blob/main/example/assets/demo.png?raw=true)](https://raw.githubusercontent.com/Yaya12085/react-native-media-grid/main/example/assets/demo.mp4)
+![Demo](https://github.com/Yaya12085/react-native-media-grid/blob/main/example/assets/demo.png?raw=true)
 
 ## Usage
 
